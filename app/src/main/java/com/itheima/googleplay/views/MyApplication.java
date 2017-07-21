@@ -1,4 +1,4 @@
-package com.itheima.googleplay.base;
+package com.itheima.googleplay.views;
 
 import android.app.Application;
 import android.content.Context;

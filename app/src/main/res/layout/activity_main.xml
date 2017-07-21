@@ -6,7 +6,7 @@
     android:id="@+id/main_drawerLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.itheima.googleplay.MainActivity">
+    tools:context="com.itheima.googleplay.views.MainActivity">
 
     <!--菜单区域(右菜单)-->
     <FrameLayout

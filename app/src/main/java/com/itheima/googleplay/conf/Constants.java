@@ -14,7 +14,7 @@ public class Constants {
     public static final long PROTOCOLTIMEOUT = 5 * 60 * 1000;//5分钟
 
     public static final class URLS {
-        public static final String BASEURL = "http://192.168.125.52:8080/GooglePlayServer/";
+        public static final String BASEURL = "http://192.168.125.58:8080/GooglePlayServer/";
         public static final String IMGBASEURL = BASEURL + "image?name=";
     }
 

@@ -2,7 +2,7 @@ package com.itheima.googleplay.protocol;
 
 import android.support.annotation.NonNull;
 
-import com.itheima.googleplay.base.MyApplication;
+import com.itheima.googleplay.views.MyApplication;
 import com.itheima.googleplay.conf.Constants;
 import com.itheima.googleplay.utils.FileUtils;
 import com.itheima.googleplay.utils.HttpUtils;

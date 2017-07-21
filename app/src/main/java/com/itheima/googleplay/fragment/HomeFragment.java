@@ -6,7 +6,7 @@ import android.widget.ListView;
 import com.itheima.googleplay.base.BaseFragment;
 import com.itheima.googleplay.holder.BaseHolder;
 import com.itheima.googleplay.base.LoadingPager;
-import com.itheima.googleplay.base.SuperBaseAdapter;
+import com.itheima.googleplay.adapter.SuperBaseAdapter;
 import com.itheima.googleplay.bean.HomeBean;
 import com.itheima.googleplay.bean.ItemBean;
 import com.itheima.googleplay.holder.HomeHolder;

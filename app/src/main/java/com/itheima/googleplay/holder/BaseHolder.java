@@ -9,7 +9,7 @@ import android.view.View;
  *       3.数据和视图的绑定
  */
 public abstract class BaseHolder<T> {
-    public View mHolderView;//view
+    public View mHolderView;//相当于ConverVeiw
     public T mData;//model
 
     public BaseHolder() {

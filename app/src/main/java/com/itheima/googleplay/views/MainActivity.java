@@ -1,4 +1,4 @@
-package com.itheima.googleplay;
+package com.itheima.googleplay.views;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -14,6 +14,7 @@ import android.view.MenuItem;
 import android.view.ViewTreeObserver;
 
 import com.astuetz.PagerSlidingTabStripExtends;
+import com.itheima.googleplay.R;
 import com.itheima.googleplay.base.BaseFragment;
 import com.itheima.googleplay.base.LoadingPager;
 import com.itheima.googleplay.factory.FragmentFactory;
@@ -91,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         mMainTitles = UIUtils.getStrings(R.array.main_titles);
 
         //为viewPager设置适配器
-//        MainFragmentPagerAdapter adapter = new MainFragmentPagerAdapter(getSupportFragmentManager());
+//        MainFragmentPagerAdapter com.itheima.googleplay.adapter = new MainFragmentPagerAdapter(getSupportFragmentManager());
         MainFragmentStatePagerAdapter adapter = new MainFragmentStatePagerAdapter(getSupportFragmentManager());
         mMainViewpager.setAdapter(adapter);
 

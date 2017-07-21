@@ -3,7 +3,7 @@ package com.itheima.googleplay.utils;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.itheima.googleplay.base.MyApplication;
+import com.itheima.googleplay.views.MyApplication;
 
 /**
  *  封装和ui相关的操作

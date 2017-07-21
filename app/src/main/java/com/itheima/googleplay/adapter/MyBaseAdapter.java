@@ -1,4 +1,4 @@
-package com.itheima.googleplay.base;
+package com.itheima.googleplay.adapter;
 
 import android.widget.BaseAdapter;
 

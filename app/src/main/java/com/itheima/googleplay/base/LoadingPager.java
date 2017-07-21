@@ -8,6 +8,7 @@ import com.itheima.googleplay.R;
 import com.itheima.googleplay.proxy.ThreadPoolProxyFactory;
 import com.itheima.googleplay.utils.LogUtils;
 import com.itheima.googleplay.utils.UIUtils;
+import com.itheima.googleplay.views.MyApplication;
 
 /**
  * 1.提供视图-->4种视图中的一种(加载中视图,错误视图,空视图,成功视图)-->把自身提供出去就可以
