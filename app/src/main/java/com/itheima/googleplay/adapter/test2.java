@@ -5,4 +5,5 @@ package com.itheima.googleplay.adapter;
  */
 
 public class test2 {
+    //this is a test about master
 }
