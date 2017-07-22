@@ -17,7 +17,6 @@ import java.util.Map;
  */
 public abstract class BaseFragment extends Fragment {
 
-    //我一定要找回你
     private LoadingPager mLoadingPager;
 
     public LoadingPager getLoadingPager() {
