@@ -1,4 +1,4 @@
-package com.itheima.googleplay.adapter;
+package com.itheima.googleplay.base;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.itheima.googleplay.base.LoadingPager;
 import com.itheima.googleplay.utils.UIUtils;
 
 import java.util.List;
