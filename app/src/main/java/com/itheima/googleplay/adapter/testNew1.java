@@ -5,4 +5,5 @@ package com.itheima.googleplay.adapter;
  */
 
 public class testNew1 {
+    //this is a test about version control
 }
