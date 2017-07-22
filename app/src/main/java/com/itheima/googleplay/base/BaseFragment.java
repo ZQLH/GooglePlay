@@ -28,6 +28,7 @@ public abstract class BaseFragment extends Fragment {
             /**
              * @des 在子线程中真正的加载具体的数据
              * @called triggerLoadData()方法被调用的时候
+             * 修改一下试一试
              */
             @Override
             public LoadedResult initData() {
