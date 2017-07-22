@@ -5,7 +5,7 @@ import android.widget.BaseAdapter;
 import java.util.List;
 
 /**
- * 针对BaseAdapter简单封装,针对的是其中的3个方法(getCount,getItem,getItemId)
+ * 针对BaseAdapter简单封装,针对的是其中的3个方法(getCount,getItem,getItemId)。
  */
 public abstract class MyBaseAdapter<T> extends BaseAdapter {
     public List<T> mDataSets;
